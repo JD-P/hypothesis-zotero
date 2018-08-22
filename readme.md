@@ -51,6 +51,8 @@ Then move on to the "Use" sections for instructions on how to use the program.
 
 You need 4 pieces of information to run the program:
 
+![Screenshot of the program in operation with the text fields blank except for number to grab, which is filled out by default with '50'](screenshots/Screenshot_2018-08-16_21-18-20.png)
+
 - The userID for your Zotero API usage, [available here](https://www.zotero.org/settings/keys).
 - A developer API key for Zotero, [you can make one here](https://www.zotero.org/settings/keys/new).
 - Your Hypothesis username, which should just be the username you use to access
@@ -66,6 +68,8 @@ in future versions it shouldn't.)
 After you've put all the information in, you should probably press 'save settings'
 so that the transfer settings will be saved to a file for your next session. This
 will save you time when you want to use the program again later.
+
+![The program in operation, showing the (censored) fields filled out and the progress indicator in the bottom right corner of the screen.](screenshots/Screenshot_2018-08-16_23-13-28.png)
 
 Finally, press 'grab' and the transfer will begin. A progress indicator shows
 how far along the program is in your document set. Once it's finished the progress
